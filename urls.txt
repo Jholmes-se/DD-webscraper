@@ -1,0 +1,17 @@
+# Sample Zillow URLs for testing
+# Lines starting with # are comments and will be ignored
+#
+# Note: These URLs may become outdated over time as listings change.
+# Replace with current active listings for best results.
+
+# Example listing 1 - Seattle area
+https://www.zillow.com/homedetails/2114-Bigelow-Ave-N-Seattle-WA-98109/48749107_zpid/
+
+# Example listing 2 - Illinois
+https://www.zillow.com/homedetails/308-N-Adelaide-Ave-Normal-IL-61761/5444155_zpid/
+
+# Example listing 3 - Austin area
+https://www.zillow.com/homedetails/1234-Main-St-Austin-TX-78701/29383848_zpid/
+
+# Add your own URLs below (one per line):
+
